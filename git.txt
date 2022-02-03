@@ -1,0 +1,11 @@
+rm -rf .git = delete git folder and rep
+git clone (link of tenseflow)
+pwd
+ls
+cd /
+git add --a (add file to rep)
+git commit -m "changed readme" (m means msg)
+git log (shows whosoever has performed changes)
+q to quit
+
+
